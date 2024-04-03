@@ -9,4 +9,4 @@ USER bun
 
 EXPOSE 9010
 
-ENTRYPOINT [ "bun", "run", "index.ts" ]
+ENTRYPOINT [ "bun", "run", "server.js" ]
